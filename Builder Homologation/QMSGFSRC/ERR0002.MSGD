@@ -1,0 +1,3 @@
+ADDMSGD MSGID(&N) MSGF(&O/&F) +
+ MSG('Country code unknown. Press F4 to select.')
+ LVL('10/25/16' 1) CCSID(     297)

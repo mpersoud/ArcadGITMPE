@@ -1,0 +1,3 @@
+ADDMSGD MSGID(&N) MSGF(&O/&F) +
+ MSG('Ordered quantity can not be lower that the quantity already delivered.')
+ LVL('12/01/16' 1) CCSID(     297)
